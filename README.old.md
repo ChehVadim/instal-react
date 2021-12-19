@@ -14,7 +14,7 @@ npx create-react-app и после этого необходимо выбрат�
 npm start.
 
 5. В файле App.js нужно удалить все лишнее, приведя его вот к такому виду:
-import React from 'react';
+import React from 'react'
 
 function App() {
 	return <div>
